@@ -1,0 +1,52 @@
+body{
+  background: grey;
+}
+
+
+.circle-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  border: 2px solid #000;
+  cursor: pointer;
+}
+.hidden {
+  background-color: white;
+}
+.red { background-color: red; }
+.blue { background-color: blue; }
+.black { background-color: black; }
+
+#feedback {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+
+h1  {
+  color: #0056b3;
+  text-align: center;
+}
+
+p {
+  color: #0056b3;
+  font-weight: bold;
+}
+
+#Hinweis {
+  color: #000;
+  font-weight: 300;
+  text-align: center;
+}
+
+#checkButton {
+  color: #0056b3;
+  font-weight: bold;
+}
