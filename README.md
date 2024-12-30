@@ -1,5 +1,5 @@
-*Farbkombinations-Spiel*
+# Farbkombinations-Spiel
 
-This website allows you to practice Farbkombinationen (color combinations) that will appear in the Multicheck ICT exam. It provides an excellent way to memorize the color combinations for the test.
+In this website, you can practice **Farbkombinationen** that will appear in the **Multicheck ICT** exam. It is a great way to memorize the colors for the Multicheck.
 
-Unlike the practice tool on the Gateway website, this version generates the color sequences randomly each time, making it unpredictable and more challenging.
+Unlike the practice tool on the Gateway website, this version generates the color sequences **randomly** and is **not predictable**, providing a more challenging practice experience.
